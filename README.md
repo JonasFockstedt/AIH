@@ -1,1 +1,1 @@
-# AIH
+# Artificial Intelligence for Health
